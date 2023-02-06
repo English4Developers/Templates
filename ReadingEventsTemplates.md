@@ -14,4 +14,6 @@
 #### {Author}
 #### {ISBN}
 
+---
 
+## Additional resources
